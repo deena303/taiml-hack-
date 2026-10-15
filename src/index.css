@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-serif-tamil {
+    font-family: 'Noto Serif Tamil', 'Latha', 'Vijaya', 'Bailley', serif;
+  }
+  .font-tamil {
+    font-family: 'Noto Sans Tamil', 'Noto Serif Tamil', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+}
+
+/* Custom scrollbar */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

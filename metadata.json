@@ -1,0 +1,6 @@
+{
+  "name": "TamilVault AI",
+  "description": "Trustworthy Tamil book digitisation platform for historical texts and 100-year-old manuscripts with evidence-based anti-hallucination verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
